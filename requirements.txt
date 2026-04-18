@@ -1,0 +1,4 @@
+faster-whisper
+moviepy
+gradio
+ffmpeg-python
