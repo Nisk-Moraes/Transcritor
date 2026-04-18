@@ -23,7 +23,7 @@ O Transcriptor é uma ferramenta de transcrição feita em Python, desenvolvida 
 | **Tempfile** | Para criação de diretórios temporários |
 | **Webbrowser** | Para abrir a interface web no navegador |
 
-## 📦 Instalação
+## Instalação
 
 Para instalar as dependências do projeto, siga os passos abaixo:
 
